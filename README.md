@@ -1,6 +1,6 @@
 # vscode-markdown-tefcha
 
-Add support for flowchar preview in Markdown file.
+Add support for flowchart preview in VS Code's built-in markdown preview.
 
 ![demo](demo.gif)
 
